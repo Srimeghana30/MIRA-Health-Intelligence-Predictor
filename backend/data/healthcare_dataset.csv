@@ -1,0 +1,26 @@
+glucose,haemoglobin,cholesterol,risk
+90,14.5,180,Low Risk
+95,14.2,190,Low Risk
+100,13.8,200,Low Risk
+110,13.5,210,Low Risk
+120,13.0,220,Moderate Risk
+130,12.5,225,Moderate Risk
+140,12.0,230,Moderate Risk
+150,11.5,235,Moderate Risk
+160,11.0,240,Moderate Risk
+170,10.5,245,High Risk
+180,10.0,250,High Risk
+190,9.8,255,High Risk
+200,9.5,260,High Risk
+210,9.2,265,High Risk
+220,9.0,270,High Risk
+230,8.8,275,High Risk
+240,8.5,280,High Risk
+250,8.2,285,High Risk
+145,12.8,228,Moderate Risk
+105,13.9,205,Low Risk
+175,10.2,248,High Risk
+125,12.7,223,Moderate Risk
+98,14.0,185,Low Risk
+205,9.3,262,High Risk
+155,11.3,238,Moderate Risk
